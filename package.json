@@ -1,16 +1,16 @@
 {
   "name": "notion-next",
   "version": "4.1.4",
-  "homepage": "https://github.com/BTI-US/BTI-Webpage.git",
+  "homepage": "https://github.com/BTI-US/Lotso-Webpage.git",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BTI-US/BTI-Webpage.git"
+    "url": "https://github.com/BTI-US/Lotso-Webpage.git"
   },
   "author": {
-    "name": "BTI-Platform",
-    "email": "contact@btiplatform.com",
-    "url": "https://btiplatform.com"
+    "name": "Lotso",
+    "email": "contact@lotso.org",
+    "url": "https://lotso.org"
   },
   "scripts": {
     "dev": "next dev",
@@ -71,7 +71,7 @@
     "axios": ">=0.21.1"
   },
   "bugs": {
-    "url": "https://github.com/BTI-US/BTI-Webpage/issues",
-    "email": "contact@btiplatform.com"
+    "url": "https://github.com/BTI-US/Lotso-Webpage/issues",
+    "email": "contact@lotso.org"
   }
 }
