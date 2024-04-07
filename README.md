@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/bti-platform.png" alt="BTI-Platform Logo" width="150"/>
+  <img src="docs/lotso.png" alt="BTI-Platform Logo" width="150"/>
 </p>
 
 # BTI-Webpage
